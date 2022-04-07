@@ -9,13 +9,18 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy Ingeniera en Sistemas Computacionales, egresada del Tecnológico de Estudios Superiores de Chalco. Me enorgullece ser parte de esa institución.
+Llevo cerca de 5 años como desarrollador frontend y he tenido algunas participaciones en el backend. 
+Mi objetivo es completar mi formación para llegar a ser un desarrollador fullstack.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Algunas de las tecnologías que he usado a lo largo de mi carrera profesional han sido:
+- Angular
+- Ionic
+- Firebase
+- Google Cloud Platform
+- Javascript
+- Sql Server
+- Postgres
 
+Me emociona mucho la programación, me encanta la idea de poder desarrollar cosas a partir de un código que yo escribí. 
+Me gusta seguir aprendiendo cosas nuevas.
